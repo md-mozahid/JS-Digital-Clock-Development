@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #99a3a4;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  color: #8e44ad;
+  margin-bottom: 15px;
+}
+h3 {
+  font-size: 25px;
+  margin-bottom: 50px;
+  color: #239B56;
+}
+h1 {
+  font-size: 75px;
+  color: #e74c3c;
+  box-shadow: 0 0 20px #EC7063,
+              0 0 40px #EC7063;
+  height: 100px;
+}
